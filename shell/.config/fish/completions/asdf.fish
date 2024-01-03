@@ -1,0 +1,1 @@
+/home/ted/.asdf/completions/asdf.fish
